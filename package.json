@@ -25,6 +25,6 @@
     "eslint-config-next": "14.0.3"
   },
   "browserslist": [
-    "ie 9"
+    "ie 11"
   ]
 }
